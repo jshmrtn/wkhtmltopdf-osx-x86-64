@@ -12,7 +12,8 @@
     ],
     "minimum-stability": "stable",
     "bin": [
-        "bin/wkhtmltopdf-osx-x86-64"
+        "bin/wkhtmltopdf-osx-x86-64",
+        "bin/wkhtmltoimage-osx-x86-64"
     ],
     "require": {
     }

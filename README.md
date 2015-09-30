@@ -18,11 +18,13 @@ This package can be found on [Packagist](http://packagist.org) and installed wit
 
     php composer.phar require jshmrtn/wkhtmltopdf-osx-x86-64 "0.12.2.1"
 
-The binary will then be located at:
+The binaries will then be located at:
 
     vendor/jshmrtn/wkhtmltopdf-osx-x86-64/bin/wkhtmltopdf-osx-x86-64
+    vendor/jshmrtn/wkhtmltopdf-osx-x86-64/bin/wkhtmltoimage-osx-x86-64
 
 Also a symlink will be created in your configured bin/ folder, for example:
 
     vendor/bin/wkhtmltopdf-osx-x86-64
+    vendor/bin/wkhtmltoimage-osx-x86-64
 
